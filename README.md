@@ -1,2 +1,11 @@
 # Stock-Management-DB
-Simple stock management with Java SE and PostgreSQL (Export-Import as excel, restore, backup, CRUD, Search, Pagination) 
+
+This is a school project using Java SE and PostgreSQL to develop a small stock management.
+Include with following features:
+* export data to excel file
+* import data from excel file
+* restore data from backup database
+* backup data
+* CRUD
+* search
+* pagination
